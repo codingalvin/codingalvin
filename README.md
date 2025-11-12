@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, this is Alvin 👋
 
 <!--
 **codingalvin/codingalvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I have a passion for coding and robotics.
+
+
+
+What I am working on:
+I'm currently working on my chatbot program, which is updating almost daily on my Github page. 
 I’m currently learning C++ and how to use VEX Robotics.
