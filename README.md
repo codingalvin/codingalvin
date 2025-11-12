@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I have a passion for coding and robotics.
-
+I have a passion for coding and robotics. I enjoy creating games using Pygame and creating robots.
 
 
 What I am working on:
+
 I'm currently working on my chatbot program, which is updating almost daily on my Github page. 
 I’m currently learning C++ and how to use VEX Robotics.
