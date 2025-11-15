@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I have a passion for coding and robotics. I enjoy creating games using Pygame and creating robots.
+I have a passion for coding and robotics. I love creating games using Pygame, scratch and creating robots. I know languages like Python, Javascript, HTML and AHK. I'm currently working on my chatbot program and my website, which is updating almost daily on my Github page. I’m currently learning C++ and how to use VEX Robotics.
 
-
-What I am working on:
-
-I'm currently working on my chatbot program, which is updating almost daily on my Github page. 
-I’m currently learning C++ and how to use VEX Robotics.
+<--Here are some of my creations:
+- -->
