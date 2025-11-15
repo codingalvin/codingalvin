@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I have a passion for coding and robotics. I love creating games using Pygame, scratch and creating robots. I know languages like Python, Javascript, HTML and AHK. I'm currently working on my chatbot program and my website, which is updating almost daily on my Github page. I’m currently learning C++ and how to use VEX Robotics.
 
-###Here are some of my creations that I have put online:
+### Here are some of my creations that I have put online:
 
 [Alvin's Website](https://codingalvin.github.io)
 I made this website via HTML and CSS code. Still trying to add more functionality.
