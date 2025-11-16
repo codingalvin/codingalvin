@@ -24,6 +24,11 @@ I made this website via HTML and CSS code. Still trying to add more functionalit
 [The North York Times](https://sites.google.com/view/thenorthyorktimes)
 I made this website using Google Sites and it is used to take a look at news for Canada and the GTA or the Greater Toronto Area. Here I used RSS feeds to grab news from diffrent news plaforms like Toronto Star, Toronto Sun, Citynews, etc. 
 
+[Alvin Universe](https://www.youtube.com/@alvinuniverse)
+This is my YouTube channel where I share things about tech and science.
+
+
+
 
 
 
