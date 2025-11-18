@@ -27,8 +27,5 @@ I made this website using Google Sites and it is used to take a look at news for
 [Alvin Universe](https://www.youtube.com/@alvinuniverse)
 This is my YouTube channel where I share things about tech and science.
 
-
-
-
-
-
+[Wiki Page](https://github.com/codingalvin/codingalvin/wiki)
+This is a GitHub wiki page for how to use these websites.
